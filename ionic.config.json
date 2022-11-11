@@ -1,0 +1,7 @@
+{
+  "name": "unaEnBlanco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
